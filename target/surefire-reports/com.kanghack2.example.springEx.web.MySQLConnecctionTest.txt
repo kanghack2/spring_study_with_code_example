@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kanghack2.example.springEx.web.MySQLConnecctionTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.288 sec - in com.kanghack2.example.springEx.web.MySQLConnecctionTest
